@@ -1,0 +1,272 @@
+{
+  "SW-MIN001": {
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN001"
+  },
+  "HLM-MIN001": {
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN001"
+  },
+  "GAS-MIN001": {
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN001"
+  },
+  "VST-MIN001": {
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN001"
+  },
+  "BOOT-MIN001": {
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN001"
+  },
+  "SW-MIN002": {
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN002"
+  },
+  "HLM-MIN002": {
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN002"
+  },
+  "GAS-MIN002": {
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN002"
+  },
+  "VST-MIN002": {
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN002"
+  },
+  "BOOT-MIN002": {
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN002"
+  },
+  "SW-MIN003": {
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN003"
+  },
+  "HLM-MIN003": {
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN003"
+  },
+  "GAS-MIN003": {
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN003"
+  },
+  "VST-MIN003": {
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN003"
+  },
+  "BOOT-MIN003": {
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN003"
+  },
+  "SW-MIN004": {
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN004"
+  },
+  "HLM-MIN004": {
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN004"
+  },
+  "GAS-MIN004": {
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN004"
+  },
+  "VST-MIN004": {
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN004"
+  },
+  "BOOT-MIN004": {
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN004"
+  },
+  "SW-MIN005": {
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN005"
+  },
+  "HLM-MIN005": {
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN005"
+  },
+  "GAS-MIN005": {
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN005"
+  },
+  "VST-MIN005": {
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN005"
+  },
+  "BOOT-MIN005": {
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN005"
+  },
+  "SW-MIN006": {
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN006"
+  },
+  "HLM-MIN006": {
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN006"
+  },
+  "GAS-MIN006": {
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN006"
+  },
+  "VST-MIN006": {
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN006"
+  },
+  "BOOT-MIN006": {
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN006"
+  },
+  "SW-MIN007": {
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN007"
+  },
+  "HLM-MIN007": {
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN007"
+  },
+  "GAS-MIN007": {
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN007"
+  },
+  "VST-MIN007": {
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN007"
+  },
+  "BOOT-MIN007": {
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN007"
+  },
+  "SW-MIN008": {
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN008"
+  },
+  "HLM-MIN008": {
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN008"
+  },
+  "GAS-MIN008": {
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN008"
+  },
+  "VST-MIN008": {
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN008"
+  },
+  "BOOT-MIN008": {
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN008"
+  },
+  "SW-MIN009": {
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "assigned_to": null,
+    "serial_number": "SW-MIN009"
+  },
+  "HLM-MIN009": {
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "assigned_to": null,
+    "serial_number": "HLM-MIN009"
+  },
+  "GAS-MIN009": {
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "assigned_to": null,
+    "serial_number": "GAS-MIN009"
+  },
+  "VST-MIN009": {
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "assigned_to": null,
+    "serial_number": "VST-MIN009"
+  },
+  "BOOT-MIN009": {
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "assigned_to": null,
+    "serial_number": "BOOT-MIN009"
+  }
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "employee_id": "ADM001",
+    "name": "Thabo",
+    "surname": "Nkosi",
+    "role": "admin",
+    "email": "thabo.nkosi@minecorp.co.za",
+    "phone": "0820000000",
+    "area": null,
+    "password_hash": "$2b$12$u91NusbI/kKQXCCSxYLgqOXjBzhZj2o/t9PaN0HziAvQPbfFzb3gm",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "SUP001",
+    "name": "Pieter",
+    "surname": "van Wyk",
+    "role": "supervisor",
+    "email": "pieter.vanwyk@minecorp.co.za",
+    "phone": "0820000001",
+    "area": "Shaft-A",
+    "password_hash": "$2b$12$CWFeV8cwsmVk59GsJtwoquGJBxctuhjVTQkcAorcaqtfjqDLSFHWO",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "SUP002",
+    "name": "Lindiwe",
+    "surname": "Dube",
+    "role": "supervisor",
+    "email": "lindiwe.dube@minecorp.co.za",
+    "phone": "0820000002",
+    "area": "Shaft-B",
+    "password_hash": "$2b$12$wgQESlT5hli13r.EDfPqt.wNcj.D.qQoKH7GuO.0yVVLAMbtO8BH2",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "name": "Sipho",
+    "surname": "Mokoena",
+    "role": "miner",
+    "email": "sipho.mokoena@minecorp.co.za",
+    "phone": "0820000003",
+    "area": "Shaft-A",
+    "password_hash": "$2b$12$VG2CnwDaFEwU2leRmR.i/e7yYr4zg5zrP1c3CuUMd6kKY7IDW8xPm",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "name": "Nomsa",
+    "surname": "Khumalo",
+    "role": "miner",
+    "email": "nomsa.khumalo@minecorp.co.za",
+    "phone": "0820000004",
+    "area": "Shaft-A",
+    "password_hash": "$2b$12$1.A3hBveCo1fE6wlkWSn8e6B.aTt7zpnVhk/uaexfHGjBjqPp5lBO",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "name": "Johan",
+    "surname": "Botha",
+    "role": "miner",
+    "email": "johan.botha@minecorp.co.za",
+    "phone": "0820000005",
+    "area": "Shaft-A",
+    "password_hash": "$2b$12$Gb5i7/w83J0GlbmS7kJGDO1Vbsdh49uo9wpQYSqPueb3v2ipHPBOu",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "name": "Themba",
+    "surname": "Zulu",
+    "role": "miner",
+    "email": "themba.zulu@minecorp.co.za",
+    "phone": "0820000006",
+    "area": "Shaft-A",
+    "password_hash": "$2b$12$PeaPYSXcOY0iY7OnOqfXGOJKlE4c8HkHU.ahzgpEtpzJ3EKN3zAgG",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "name": "Ayanda",
+    "surname": "Ndlovu",
+    "role": "miner",
+    "email": "ayanda.ndlovu@minecorp.co.za",
+    "phone": "0820000007",
+    "area": "Shaft-B",
+    "password_hash": "$2b$12$EYpz53dmTLAh1RywMIj/h.supHWrKU5u1BT8Rpqv46WBYetH5tGVC",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "name": "Karabo",
+    "surname": "Molefe",
+    "role": "miner",
+    "email": "karabo.molefe@minecorp.co.za",
+    "phone": "0820000008",
+    "area": "Shaft-B",
+    "password_hash": "$2b$12$y8mSL/tbe66BjE8hH1BnWu.TRL8.I9dB18mXDvZhQeAMCcSEe8RlK",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "name": "Fatima",
+    "surname": "Patel",
+    "role": "miner",
+    "email": "fatima.patel@minecorp.co.za",
+    "phone": "0820000009",
+    "area": "Shaft-B",
+    "password_hash": "$2b$12$LQWtrCw7hhKtHl1VdlbJ1upzXr2DAaUf8olrzfo8wmc7MpLrTwO2G",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "name": "Lerato",
+    "surname": "Sithole",
+    "role": "miner",
+    "email": "lerato.sithole@minecorp.co.za",
+    "phone": "0820000010",
+    "area": "Shaft-B",
+    "password_hash": "$2b$12$tqSo6tiC6h3mXqRc7YyRGeB69HkwDMN.x03jRIisT8g9uqJZOL3RG",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "name": "Bongani",
+    "surname": "Dlamini",
+    "role": "miner",
+    "email": "bongani.dlamini@minecorp.co.za",
+    "phone": "0820000011",
+    "area": "Shaft-A",
+    "password_hash": "$2b$12$pvvt3OJ.lrZqJeeIuFGP.ePqS5u0QBX3i46qrP5K41AYfPusDeSQC",
+    "company_name": null,
+    "baseline": {
+      "bpm_min": 60,
+      "bpm_max": 100,
+      "temp_min": 36.1,
+      "temp_max": 37.5
+    }
+  }
+]

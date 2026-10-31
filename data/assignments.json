@@ -1,0 +1,614 @@
+[
+  {
+    "serial_number": "SW-MIN001",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN001",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:57.536013+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN001",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN001",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:57.595823+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN001",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN001",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:57.903740+00:00"
+  },
+  {
+    "serial_number": "VST-MIN001",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN001",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:58.277515+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN001",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN001",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:58.502816+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN001",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN001",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:58.634828+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN001",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN001",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:58.746836+00:00"
+  },
+  {
+    "serial_number": "SW-MIN002",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN002",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:58.961802+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN002",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN002",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:59.283131+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN002",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN002",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:10:59.612620+00:00"
+  },
+  {
+    "serial_number": "VST-MIN002",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN002",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:00.397755+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN002",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN002",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:01.294901+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN002",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN002",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:01.665256+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN002",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN002",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:02.521576+00:00"
+  },
+  {
+    "serial_number": "SW-MIN003",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN003",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:02.727909+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN003",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN003",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:03.120392+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN003",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN003",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:03.777288+00:00"
+  },
+  {
+    "serial_number": "VST-MIN003",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN003",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:04.737473+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN003",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN003",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:05.537779+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN003",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN003",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:05.866313+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN003",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN003",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:05.988842+00:00"
+  },
+  {
+    "serial_number": "SW-MIN004",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN004",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:06.544113+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN004",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN004",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:06.960103+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN004",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN004",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:07.362736+00:00"
+  },
+  {
+    "serial_number": "VST-MIN004",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN004",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:07.708747+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN004",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN004",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:07.940457+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN004",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN004",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:09.276805+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN004",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN004",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:09.503647+00:00"
+  },
+  {
+    "serial_number": "SW-MIN005",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN005",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:09.680884+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN005",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN005",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:09.870203+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN005",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN005",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:10.544203+00:00"
+  },
+  {
+    "serial_number": "VST-MIN005",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN005",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:10.911867+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN005",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN005",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:11.265025+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN005",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN005",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:11.501477+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN005",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN005",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:11.859051+00:00"
+  },
+  {
+    "serial_number": "SW-MIN006",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN006",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:12.294257+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN006",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN006",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:12.648018+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN006",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN006",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:12.937900+00:00"
+  },
+  {
+    "serial_number": "VST-MIN006",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN006",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:13.472590+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN006",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN006",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:14.321053+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN006",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN006",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:14.663170+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN006",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN006",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:14.911907+00:00"
+  },
+  {
+    "serial_number": "SW-MIN007",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN007",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:15.281804+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN007",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN007",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:15.554450+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN007",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN007",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:15.821982+00:00"
+  },
+  {
+    "serial_number": "VST-MIN007",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN007",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:16.084856+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN007",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN007",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:17.119463+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN007",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN007",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:17.398505+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN007",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN007",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:17.687107+00:00"
+  },
+  {
+    "serial_number": "SW-MIN008",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN008",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:17.992459+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN008",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN008",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:18.377401+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN008",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN008",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:18.632506+00:00"
+  },
+  {
+    "serial_number": "VST-MIN008",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN008",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:18.941223+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN008",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN008",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:19.623270+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN008",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN008",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:20.077727+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN008",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN008",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:20.523899+00:00"
+  },
+  {
+    "serial_number": "SW-MIN009",
+    "item_name": "Smart Watch",
+    "employee_id": "MIN009",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:20.965960+00:00"
+  },
+  {
+    "serial_number": "HLM-MIN009",
+    "item_name": "Smart Helmet",
+    "employee_id": "MIN009",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:21.298915+00:00"
+  },
+  {
+    "serial_number": "GAS-MIN009",
+    "item_name": "Personal Gas Detector",
+    "employee_id": "MIN009",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:21.664812+00:00"
+  },
+  {
+    "serial_number": "VST-MIN009",
+    "item_name": "Smart Hi-Vis Vest",
+    "employee_id": "MIN009",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:22.804170+00:00"
+  },
+  {
+    "serial_number": "BOOT-MIN009",
+    "item_name": "Smart Safety Boots",
+    "employee_id": "MIN009",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:23.396434+00:00"
+  },
+  {
+    "serial_number": "GLV-MIN009",
+    "item_name": "Safety Gloves",
+    "employee_id": "MIN009",
+    "action": "assigned",
+    "condition_at_action": "new",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:24.459274+00:00"
+  },
+  {
+    "serial_number": "GLS-MIN009",
+    "item_name": "Safety Glasses",
+    "employee_id": "MIN009",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:25.168160+00:00"
+  },
+  {
+    "serial_number": "HLM-OLD-01",
+    "item_name": "Safety Helmet",
+    "employee_id": "MIN009",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:25.888146+00:00"
+  },
+  {
+    "serial_number": "HLM-OLD-01",
+    "item_name": "Safety Helmet",
+    "employee_id": "MIN009",
+    "action": "returned",
+    "condition_at_action": "damaged",
+    "notes": "Visor cracked after rockfall",
+    "timestamp": "2026-10-31T07:11:26.127850+00:00"
+  },
+  {
+    "serial_number": "BOOT-OLD-01",
+    "item_name": "Safety Boots",
+    "employee_id": "MIN001",
+    "action": "assigned",
+    "condition_at_action": "used",
+    "notes": "Demo issue",
+    "timestamp": "2026-10-31T07:11:26.318500+00:00"
+  },
+  {
+    "serial_number": "BOOT-OLD-01",
+    "item_name": "Safety Boots",
+    "employee_id": "MIN001",
+    "action": "returned",
+    "condition_at_action": "damaged",
+    "notes": "Sole separated",
+    "timestamp": "2026-10-31T07:11:26.442618+00:00"
+  },
+  {
+    "serial_number": "BOOT-OLD-01",
+    "item_name": "Safety Boots",
+    "employee_id": null,
+    "action": "refurbished",
+    "condition_at_action": "refurbished",
+    "notes": "Resoled by workshop",
+    "timestamp": "2026-10-31T07:11:26.611459+00:00"
+  }
+]

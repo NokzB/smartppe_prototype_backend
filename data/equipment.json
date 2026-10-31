@@ -1,0 +1,605 @@
+{
+  "SW-MIN001": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN001",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN001"
+  },
+  "HLM-MIN001": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN001",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN001"
+  },
+  "GAS-MIN001": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN001",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN001"
+  },
+  "VST-MIN001": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN001",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN001"
+  },
+  "BOOT-MIN001": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN001",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN001"
+  },
+  "GLV-MIN001": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN001",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN001"
+  },
+  "GLS-MIN001": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN001",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN001"
+  },
+  "SW-MIN002": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN002",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN002"
+  },
+  "HLM-MIN002": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN002",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN002"
+  },
+  "GAS-MIN002": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN002",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN002"
+  },
+  "VST-MIN002": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN002",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN002"
+  },
+  "BOOT-MIN002": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN002",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN002"
+  },
+  "GLV-MIN002": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN002",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN002"
+  },
+  "GLS-MIN002": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN002",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN002"
+  },
+  "SW-MIN003": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN003",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN003"
+  },
+  "HLM-MIN003": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN003",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN003"
+  },
+  "GAS-MIN003": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN003",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN003"
+  },
+  "VST-MIN003": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN003",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN003"
+  },
+  "BOOT-MIN003": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN003",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN003"
+  },
+  "GLV-MIN003": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN003",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN003"
+  },
+  "GLS-MIN003": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN003",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN003"
+  },
+  "SW-MIN004": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN004",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN004"
+  },
+  "HLM-MIN004": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN004",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN004"
+  },
+  "GAS-MIN004": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN004",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN004"
+  },
+  "VST-MIN004": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN004",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN004"
+  },
+  "BOOT-MIN004": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN004",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN004"
+  },
+  "GLV-MIN004": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN004",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN004"
+  },
+  "GLS-MIN004": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN004",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN004"
+  },
+  "SW-MIN005": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN005",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN005"
+  },
+  "HLM-MIN005": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN005",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN005"
+  },
+  "GAS-MIN005": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN005",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN005"
+  },
+  "VST-MIN005": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN005",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN005"
+  },
+  "BOOT-MIN005": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN005",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN005"
+  },
+  "GLV-MIN005": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN005",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN005"
+  },
+  "GLS-MIN005": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN005",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN005"
+  },
+  "SW-MIN006": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN006",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN006"
+  },
+  "HLM-MIN006": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN006",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN006"
+  },
+  "GAS-MIN006": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN006",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN006"
+  },
+  "VST-MIN006": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN006",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN006"
+  },
+  "BOOT-MIN006": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN006",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN006"
+  },
+  "GLV-MIN006": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN006",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN006"
+  },
+  "GLS-MIN006": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN006",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN006"
+  },
+  "SW-MIN007": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN007",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN007"
+  },
+  "HLM-MIN007": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN007",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN007"
+  },
+  "GAS-MIN007": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN007",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN007"
+  },
+  "VST-MIN007": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN007",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN007"
+  },
+  "BOOT-MIN007": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN007",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN007"
+  },
+  "GLV-MIN007": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN007",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN007"
+  },
+  "GLS-MIN007": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN007",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN007"
+  },
+  "SW-MIN008": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN008",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN008"
+  },
+  "HLM-MIN008": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN008",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN008"
+  },
+  "GAS-MIN008": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN008",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN008"
+  },
+  "VST-MIN008": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN008",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN008"
+  },
+  "BOOT-MIN008": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN008",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN008"
+  },
+  "GLV-MIN008": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN008",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN008"
+  },
+  "GLS-MIN008": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN008",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN008"
+  },
+  "SW-MIN009": {
+    "item_name": "Smart Watch",
+    "category": "Smart Wearable",
+    "serial_number": "SW-MIN009",
+    "condition": "new",
+    "manufacturer": "Vitalink",
+    "status": "assigned",
+    "assigned_to": "MIN009"
+  },
+  "HLM-MIN009": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-MIN009",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "assigned",
+    "assigned_to": "MIN009"
+  },
+  "GAS-MIN009": {
+    "item_name": "Personal Gas Detector",
+    "category": "Smart Wearable",
+    "serial_number": "GAS-MIN009",
+    "condition": "new",
+    "manufacturer": "AeroSense",
+    "status": "assigned",
+    "assigned_to": "MIN009"
+  },
+  "VST-MIN009": {
+    "item_name": "Smart Hi-Vis Vest",
+    "category": "Smart Wearable",
+    "serial_number": "VST-MIN009",
+    "condition": "new",
+    "manufacturer": "ReflexWear",
+    "status": "assigned",
+    "assigned_to": "MIN009"
+  },
+  "BOOT-MIN009": {
+    "item_name": "Smart Safety Boots",
+    "category": "Smart Wearable",
+    "serial_number": "BOOT-MIN009",
+    "condition": "new",
+    "manufacturer": "StrideSafe",
+    "status": "assigned",
+    "assigned_to": "MIN009"
+  },
+  "GLV-MIN009": {
+    "item_name": "Safety Gloves",
+    "category": "PPE",
+    "serial_number": "GLV-MIN009",
+    "condition": "new",
+    "manufacturer": "GripPro",
+    "status": "assigned",
+    "assigned_to": "MIN009"
+  },
+  "GLS-MIN009": {
+    "item_name": "Safety Glasses",
+    "category": "PPE",
+    "serial_number": "GLS-MIN009",
+    "condition": "used",
+    "manufacturer": "ClearView",
+    "status": "assigned",
+    "assigned_to": "MIN009"
+  },
+  "HLM-SPARE-01": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-SPARE-01",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "in_stock",
+    "assigned_to": null
+  },
+  "HLM-SPARE-02": {
+    "item_name": "Smart Helmet",
+    "category": "Smart Wearable",
+    "serial_number": "HLM-SPARE-02",
+    "condition": "new",
+    "manufacturer": "MineGuard",
+    "status": "in_stock",
+    "assigned_to": null
+  },
+  "HLM-OLD-01": {
+    "item_name": "Safety Helmet",
+    "category": "PPE",
+    "serial_number": "HLM-OLD-01",
+    "condition": "damaged",
+    "manufacturer": "HardHat Co",
+    "status": "damaged",
+    "assigned_to": null
+  },
+  "BOOT-OLD-01": {
+    "item_name": "Safety Boots",
+    "category": "PPE",
+    "serial_number": "BOOT-OLD-01",
+    "condition": "refurbished",
+    "manufacturer": "StrideSafe",
+    "status": "in_stock",
+    "assigned_to": null
+  }
+}

@@ -1,0 +1,7139 @@
+[
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 82.0,
+    "temperature": 36.8,
+    "fatigue_score": 29.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 3.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 40.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 77.0,
+    "temperature": 36.7,
+    "fatigue_score": 11.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.13,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 62.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 76.0,
+    "temperature": 36.6,
+    "fatigue_score": 10.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.38,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 67.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 74.0,
+    "temperature": 37.0,
+    "fatigue_score": 17.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.1,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.12,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 42.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 83.0,
+    "temperature": 36.5,
+    "fatigue_score": 37.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 3.0,
+      "methane_pct": 0.15,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 46.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 71.0,
+    "temperature": 37.2,
+    "fatigue_score": 36.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.36,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 90.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 89.0,
+    "temperature": 36.5,
+    "fatigue_score": 27.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.6,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 61.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 36.6,
+    "fatigue_score": 30.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.28,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 68.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 77.0,
+    "temperature": 36.5,
+    "fatigue_score": 15.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 36.6,
+    "fatigue_score": 31.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 50.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 36.9,
+    "fatigue_score": 37.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.34,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 46.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 36.8,
+    "fatigue_score": 15.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.1,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.16,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "SW-MIN001",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 90.0,
+    "temperature": 36.8,
+    "fatigue_score": 27.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "HLM-MIN001",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "GAS-MIN001",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.32,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "VST-MIN001",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN001",
+    "device_id": "BOOT-MIN001",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 36.4,
+    "fatigue_score": 18.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.3,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 68.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 85.0,
+    "temperature": 36.7,
+    "fatigue_score": 36.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.23,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 75.0,
+    "temperature": 37.2,
+    "fatigue_score": 35.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.38,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 58.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 89.0,
+    "temperature": 36.8,
+    "fatigue_score": 15.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.12,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 46.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 71.0,
+    "temperature": 36.8,
+    "fatigue_score": 39.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 53.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 75.0,
+    "temperature": 37.1,
+    "fatigue_score": 36.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.6,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.21,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 87.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 74.0,
+    "temperature": 36.5,
+    "fatigue_score": 34.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.9,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 11.0,
+      "methane_pct": 0.35,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 65.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 76.0,
+    "temperature": 36.9,
+    "fatigue_score": 39.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 3.0,
+      "methane_pct": 0.1,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 89.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 92.0,
+    "temperature": 36.8,
+    "fatigue_score": 24.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.35,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 87.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 36.8,
+    "fatigue_score": 13.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.9,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.22,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 51.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 36.6,
+    "fatigue_score": 38.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 73.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 80.0,
+    "temperature": 36.6,
+    "fatigue_score": 10.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.9,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 85.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "SW-MIN002",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 90.0,
+    "temperature": 36.6,
+    "fatigue_score": 91.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "HLM-MIN002",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "GAS-MIN002",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.32,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 62.0
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "VST-MIN002",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN002",
+    "device_id": "BOOT-MIN002",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 69.0,
+    "temperature": 36.9,
+    "fatigue_score": 26.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.19,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 79.0,
+    "temperature": 37.1,
+    "fatigue_score": 10.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 3.0,
+      "methane_pct": 0.14,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 61.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 36.8,
+    "fatigue_score": 25.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 45.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 74.0,
+    "temperature": 37.1,
+    "fatigue_score": 10.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 73.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.13,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 59.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 91.0,
+    "temperature": 36.5,
+    "fatigue_score": 34.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.39,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 74.0,
+    "temperature": 37.1,
+    "fatigue_score": 11.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.26,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 57.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 92.0,
+    "temperature": 36.8,
+    "fatigue_score": 31.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 54.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 69.0,
+    "temperature": 36.7,
+    "fatigue_score": 30.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.38,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 44.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 80.0,
+    "temperature": 36.9,
+    "fatigue_score": 23.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 71.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.23,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 91.0,
+    "temperature": 36.7,
+    "fatigue_score": 22.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 3.0,
+      "methane_pct": 0.36,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 68.0,
+    "temperature": 36.9,
+    "fatigue_score": 16.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.35,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 60.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 74.0,
+    "temperature": 36.9,
+    "fatigue_score": 13.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 11.0,
+      "methane_pct": 0.34,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "SW-MIN003",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "stressed",
+    "bpm": 86.0,
+    "temperature": 37.2,
+    "fatigue_score": 13.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "HLM-MIN003",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": true,
+    "impact_g": 6.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "GAS-MIN003",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "VST-MIN003",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN003",
+    "device_id": "BOOT-MIN003",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "stressed",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 85.0,
+    "temperature": 36.9,
+    "fatigue_score": 11.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.37,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 84.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 36.8,
+    "fatigue_score": 23.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.1,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.11,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 47.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 37.1,
+    "fatigue_score": 34.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.25,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 85.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 85.0,
+    "temperature": 36.8,
+    "fatigue_score": 38.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.6,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 42.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 68.0,
+    "temperature": 36.7,
+    "fatigue_score": 30.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 67.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 75.0,
+    "temperature": 36.8,
+    "fatigue_score": 21.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.18,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 85.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 90.0,
+    "temperature": 36.5,
+    "fatigue_score": 28.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.3,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 73.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 83.0,
+    "temperature": 36.9,
+    "fatigue_score": 32.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.26,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 48.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 90.0,
+    "temperature": 36.8,
+    "fatigue_score": 22.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.18,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 66.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 70.0,
+    "temperature": 37.0,
+    "fatigue_score": 33.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 63.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 79.0,
+    "temperature": 36.7,
+    "fatigue_score": 40.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.34,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 64.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 77.0,
+    "temperature": 36.7,
+    "fatigue_score": 35.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 90.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "SW-MIN004",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "stressed",
+    "bpm": 91.0,
+    "temperature": 37.1,
+    "fatigue_score": 22.0,
+    "sos": true
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "HLM-MIN004",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "GAS-MIN004",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.1,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 55.0
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "VST-MIN004",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN004",
+    "device_id": "BOOT-MIN004",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "stressed",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 37.1,
+    "fatigue_score": 31.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 11.0,
+      "methane_pct": 0.38,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 47.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 71.0,
+    "temperature": 36.5,
+    "fatigue_score": 36.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.9,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 68.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 85.0,
+    "temperature": 37.0,
+    "fatigue_score": 20.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.35,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 69.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 36.5,
+    "fatigue_score": 13.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.25,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 75.0,
+    "temperature": 36.5,
+    "fatigue_score": 35.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.39,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 44.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 73.0,
+    "temperature": 37.2,
+    "fatigue_score": 38.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.29,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 68.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 36.6,
+    "fatigue_score": 17.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.21,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 65.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 86.0,
+    "temperature": 36.8,
+    "fatigue_score": 10.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.14,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 46.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 73.0,
+    "temperature": 36.7,
+    "fatigue_score": 32.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 36.7,
+    "fatigue_score": 39.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 71.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.34,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 82.0,
+    "temperature": 36.5,
+    "fatigue_score": 16.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.33,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 57.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 86.0,
+    "temperature": 36.8,
+    "fatigue_score": 17.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.1,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.27,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 40.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "SW-MIN005",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 76.0,
+    "temperature": 36.8,
+    "fatigue_score": 33.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "HLM-MIN005",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.9,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "GAS-MIN005",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 58.0,
+      "methane_pct": 1.4,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 190.0
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "VST-MIN005",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN005",
+    "device_id": "BOOT-MIN005",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 92.0,
+    "temperature": 36.6,
+    "fatigue_score": 29.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.35,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 58.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 91.0,
+    "temperature": 36.5,
+    "fatigue_score": 37.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 11.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 52.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 82.0,
+    "temperature": 36.8,
+    "fatigue_score": 31.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.21,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 61.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 37.1,
+    "fatigue_score": 36.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.36,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 65.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 70.0,
+    "temperature": 36.9,
+    "fatigue_score": 15.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 3.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 63.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 90.0,
+    "temperature": 36.9,
+    "fatigue_score": 29.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 82.0,
+    "temperature": 36.7,
+    "fatigue_score": 31.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 71.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.35,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 57.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 85.0,
+    "temperature": 36.7,
+    "fatigue_score": 10.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 78.0,
+    "temperature": 37.0,
+    "fatigue_score": 33.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.35,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 41.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 70.0,
+    "temperature": 36.7,
+    "fatigue_score": 27.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.37,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 52.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 74.0,
+    "temperature": 36.9,
+    "fatigue_score": 27.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.25,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 69.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 91.0,
+    "temperature": 37.0,
+    "fatigue_score": 31.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.25,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 65.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "SW-MIN006",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Blast Zone B",
+    "activity": "moderate",
+    "bpm": 74.0,
+    "temperature": 37.0,
+    "fatigue_score": 34.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "HLM-MIN006",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Blast Zone B",
+    "fall_detected": false,
+    "impact_g": 0.6,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "GAS-MIN006",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Blast Zone B",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.15,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 49.0
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "VST-MIN006",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Blast Zone B",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN006",
+    "device_id": "BOOT-MIN006",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Blast Zone B",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 75.0,
+    "temperature": 37.1,
+    "fatigue_score": 37.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 73.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 11.0,
+      "methane_pct": 0.39,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 40.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 75.0,
+    "temperature": 36.4,
+    "fatigue_score": 26.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.25,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 85.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 71.0,
+    "temperature": 36.7,
+    "fatigue_score": 13.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 82.0,
+    "temperature": 36.7,
+    "fatigue_score": 31.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.18,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 71.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 37.1,
+    "fatigue_score": 29.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.19,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 86.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 86.0,
+    "temperature": 36.5,
+    "fatigue_score": 33.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 11.0,
+      "methane_pct": 0.19,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 85.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 78.0,
+    "temperature": 36.6,
+    "fatigue_score": 24.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.13,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 66.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 36.6,
+    "fatigue_score": 33.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.29,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 44.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 83.0,
+    "temperature": 36.8,
+    "fatigue_score": 19.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 76.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.25,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 88.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 85.0,
+    "temperature": 36.6,
+    "fatigue_score": 28.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 3.0,
+      "methane_pct": 0.39,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 61.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 37.1,
+    "fatigue_score": 27.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.4,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 84.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 92.0,
+    "temperature": 36.8,
+    "fatigue_score": 10.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 11.0,
+      "methane_pct": 0.25,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "SW-MIN007",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 80.0,
+    "temperature": 36.4,
+    "fatigue_score": 20.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "HLM-MIN007",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": false
+    },
+    "environment": {
+      "noise_db": 71.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "GAS-MIN007",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.19,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 60.0
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "VST-MIN007",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": false
+    }
+  },
+  {
+    "employee_id": "MIN007",
+    "device_id": "BOOT-MIN007",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 83.0,
+    "temperature": 36.4,
+    "fatigue_score": 22.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 11.0,
+      "methane_pct": 0.1,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 85.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:47:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 87.0,
+    "temperature": 36.4,
+    "fatigue_score": 15.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 71.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.38,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 89.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:49:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 87.0,
+    "temperature": 36.4,
+    "fatigue_score": 27.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.35,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 49.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:51:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 79.0,
+    "temperature": 37.2,
+    "fatigue_score": 16.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.27,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:53:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 80.0,
+    "temperature": 36.4,
+    "fatigue_score": 27.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 59.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:55:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 70.0,
+    "temperature": 37.2,
+    "fatigue_score": 15.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.9,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.37,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:57:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 72.0,
+    "temperature": 37.1,
+    "fatigue_score": 12.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.19,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 60.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T06:59:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "bpm": 90.0,
+    "temperature": 36.5,
+    "fatigue_score": 33.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.28,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 40.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:01:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "activity": "moderate",
+    "bpm": 71.0,
+    "temperature": 36.4,
+    "fatigue_score": 25.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 75.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.19,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:03:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 83.0,
+    "temperature": 36.5,
+    "fatigue_score": 19.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.9,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:05:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 70.0,
+    "temperature": 36.8,
+    "fatigue_score": 10.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 81.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.13,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:07:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "moderate",
+    "bpm": 74.0,
+    "temperature": 36.5,
+    "fatigue_score": 39.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 71.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.33,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 82.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:09:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "SW-MIN008",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "activity": "stressed",
+    "bpm": 142.0,
+    "temperature": 38.4,
+    "fatigue_score": 36.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "HLM-MIN008",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "GAS-MIN008",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 2",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.3,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 73.0
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "VST-MIN008",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN008",
+    "device_id": "BOOT-MIN008",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-B, Level 1",
+    "activity": "stressed",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T03:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 89.0,
+    "temperature": 36.9,
+    "fatigue_score": 36.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T03:47:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 1.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T03:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 3.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 58.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T03:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T03:47:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T03:49:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 90.0,
+    "temperature": 36.7,
+    "fatigue_score": 38.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T03:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.1,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 80.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T03:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 7.0,
+      "methane_pct": 0.27,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 48.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T03:49:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T03:49:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T03:51:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 92.0,
+    "temperature": 36.8,
+    "fatigue_score": 28.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T03:51:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 73.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T03:51:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.14,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T03:51:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T03:51:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T03:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 83.0,
+    "temperature": 36.6,
+    "fatigue_score": 33.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T03:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T03:53:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.26,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 90.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T03:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T03:53:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T03:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 85.0,
+    "temperature": 37.2,
+    "fatigue_score": 24.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T03:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.5,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 71.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T03:55:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 5.0,
+      "methane_pct": 0.17,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 44.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T03:55:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T03:55:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T03:57:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 68.0,
+    "temperature": 36.5,
+    "fatigue_score": 23.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T03:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.4,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T03:57:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 12.0,
+      "methane_pct": 0.1,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 90.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T03:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T03:57:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T03:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 70.0,
+    "temperature": 37.0,
+    "fatigue_score": 17.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T03:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 79.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T03:59:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.38,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 53.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T03:59:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T03:59:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T04:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 81.0,
+    "temperature": 36.5,
+    "fatigue_score": 28.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T04:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.7,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 77.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T04:01:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.29,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 85.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T04:01:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T04:01:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T04:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "bpm": 79.0,
+    "temperature": 37.0,
+    "fatigue_score": 11.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T04:03:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.8,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 73.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T04:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 9.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 56.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T04:03:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T04:03:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T04:05:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 84.0,
+    "temperature": 36.8,
+    "fatigue_score": 28.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T04:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 72.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T04:05:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "environment": {
+      "co_ppm": 6.0,
+      "methane_pct": 0.39,
+      "ambient_temp_c": 26.0,
+      "air_quality_index": 56.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T04:05:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T04:05:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T04:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "activity": "moderate",
+    "bpm": 88.0,
+    "temperature": 37.1,
+    "fatigue_score": 37.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T04:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 1.1,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T04:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 4.0,
+      "methane_pct": 0.2,
+      "ambient_temp_c": 29.0,
+      "air_quality_index": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T04:07:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T04:07:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T04:09:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 76.0,
+    "temperature": 37.1,
+    "fatigue_score": 20.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T04:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "fall_detected": false,
+    "impact_g": 1.1,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 70.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T04:09:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "environment": {
+      "co_ppm": 8.0,
+      "methane_pct": 0.34,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 90.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T04:09:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T04:09:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "SW-MIN009",
+    "device_type": "smartwatch",
+    "timestamp": "2026-10-31T04:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "activity": "moderate",
+    "bpm": 80.0,
+    "temperature": 36.4,
+    "fatigue_score": 16.0,
+    "sos": false
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "HLM-MIN009",
+    "device_type": "smart_helmet",
+    "timestamp": "2026-10-31T04:11:26.758857+00:00",
+    "location": "Shaft-A, Level 1",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true
+    },
+    "environment": {
+      "noise_db": 78.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "GAS-MIN009",
+    "device_type": "gas_detector",
+    "timestamp": "2026-10-31T04:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "environment": {
+      "co_ppm": 10.0,
+      "methane_pct": 0.37,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 74.0
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "VST-MIN009",
+    "device_type": "smart_vest",
+    "timestamp": "2026-10-31T04:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "ppe": {
+      "vest": true
+    }
+  },
+  {
+    "employee_id": "MIN009",
+    "device_id": "BOOT-MIN009",
+    "device_type": "smart_boot",
+    "timestamp": "2026-10-31T04:11:26.758857+00:00",
+    "location": "Shaft-A, Level 2",
+    "activity": "moderate",
+    "ppe": {
+      "boots": true
+    }
+  }
+]

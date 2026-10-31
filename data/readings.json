@@ -1,0 +1,259 @@
+{
+  "MIN001": {
+    "employee_id": "MIN001",
+    "bpm": 90.0,
+    "temperature": 36.8,
+    "activity": "moderate",
+    "location": "Shaft-A, Level 1",
+    "active_alerts": {},
+    "fatigue_score": 27.0,
+    "sos": false,
+    "status": "stable",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN001",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true,
+      "vest": true,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 79.0,
+      "co_ppm": 7.0,
+      "methane_pct": 0.32,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 74.0
+    }
+  },
+  "MIN002": {
+    "employee_id": "MIN002",
+    "bpm": 90.0,
+    "temperature": 36.6,
+    "activity": "moderate",
+    "location": "Shaft-A, Level 1",
+    "active_alerts": {
+      "fatigue": "Fatigue score 91.0 (limit 70)"
+    },
+    "fatigue_score": 91.0,
+    "sos": false,
+    "status": "critical",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN002",
+    "fall_detected": false,
+    "impact_g": 1.4,
+    "ppe": {
+      "helmet": true,
+      "vest": true,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 76.0,
+      "co_ppm": 7.0,
+      "methane_pct": 0.32,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 62.0
+    }
+  },
+  "MIN003": {
+    "employee_id": "MIN003",
+    "bpm": 86.0,
+    "temperature": 37.2,
+    "activity": "stressed",
+    "location": "Shaft-A, Level 3",
+    "active_alerts": {
+      "fall_impact": "Fall detected"
+    },
+    "fatigue_score": 13.0,
+    "sos": false,
+    "status": "critical",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN003",
+    "fall_detected": true,
+    "impact_g": 6.8,
+    "ppe": {
+      "helmet": true,
+      "vest": true,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 82.0,
+      "co_ppm": 10.0,
+      "methane_pct": 0.31,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 80.0
+    }
+  },
+  "MIN004": {
+    "employee_id": "MIN004",
+    "bpm": 91.0,
+    "temperature": 37.1,
+    "activity": "stressed",
+    "location": "Shaft-A, Level 3",
+    "active_alerts": {
+      "sos": "SOS button triggered"
+    },
+    "fatigue_score": 22.0,
+    "sos": true,
+    "status": "critical",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN004",
+    "fall_detected": false,
+    "impact_g": 1.0,
+    "ppe": {
+      "helmet": true,
+      "vest": true,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 81.0,
+      "co_ppm": 12.0,
+      "methane_pct": 0.1,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 55.0
+    }
+  },
+  "MIN005": {
+    "employee_id": "MIN005",
+    "bpm": 76.0,
+    "temperature": 36.8,
+    "activity": "moderate",
+    "location": "Shaft-B, Level 1",
+    "active_alerts": {
+      "environment": "co_ppm 58.0 (limit 35); methane_pct 1.4 (limit 1.0); air_quality_index 190.0 (limit 150)"
+    },
+    "fatigue_score": 33.0,
+    "sos": false,
+    "status": "critical",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN005",
+    "fall_detected": false,
+    "impact_g": 0.9,
+    "ppe": {
+      "helmet": true,
+      "vest": true,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 82.0,
+      "co_ppm": 58.0,
+      "methane_pct": 1.4,
+      "ambient_temp_c": 31.0,
+      "air_quality_index": 190.0
+    }
+  },
+  "MIN006": {
+    "employee_id": "MIN006",
+    "bpm": 74.0,
+    "temperature": 37.0,
+    "activity": "moderate",
+    "location": "Blast Zone B",
+    "active_alerts": {
+      "high_risk_zone": "Entered high-risk zone: Blast Zone B"
+    },
+    "fatigue_score": 34.0,
+    "sos": false,
+    "status": "critical",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN006",
+    "fall_detected": false,
+    "impact_g": 0.6,
+    "ppe": {
+      "helmet": true,
+      "vest": true,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 82.0,
+      "co_ppm": 8.0,
+      "methane_pct": 0.15,
+      "ambient_temp_c": 30.0,
+      "air_quality_index": 49.0
+    }
+  },
+  "MIN007": {
+    "employee_id": "MIN007",
+    "bpm": 80.0,
+    "temperature": 36.4,
+    "activity": "moderate",
+    "location": "Shaft-B, Level 1",
+    "active_alerts": {
+      "ppe": "PPE not worn: helmet, vest"
+    },
+    "fatigue_score": 20.0,
+    "sos": false,
+    "status": "critical",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN007",
+    "fall_detected": false,
+    "impact_g": 0.5,
+    "ppe": {
+      "helmet": false,
+      "vest": false,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 71.0,
+      "co_ppm": 4.0,
+      "methane_pct": 0.19,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 60.0
+    }
+  },
+  "MIN008": {
+    "employee_id": "MIN008",
+    "bpm": 142.0,
+    "temperature": 38.4,
+    "activity": "stressed",
+    "location": "Shaft-B, Level 1",
+    "active_alerts": {
+      "vitals": "BPM 142.0 outside [60-100]; Body temp 38.4C outside [36.1-37.5]"
+    },
+    "fatigue_score": 36.0,
+    "sos": false,
+    "status": "critical",
+    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN008",
+    "fall_detected": false,
+    "impact_g": 1.2,
+    "ppe": {
+      "helmet": true,
+      "vest": true,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 78.0,
+      "co_ppm": 5.0,
+      "methane_pct": 0.3,
+      "ambient_temp_c": 27.0,
+      "air_quality_index": 73.0
+    }
+  },
+  "MIN009": {
+    "employee_id": "MIN009",
+    "bpm": 80.0,
+    "temperature": 36.4,
+    "activity": "moderate",
+    "location": "Shaft-A, Level 2",
+    "active_alerts": {},
+    "fatigue_score": 16.0,
+    "sos": false,
+    "status": "stable",
+    "timestamp": "2026-10-31T04:11:26.758857+00:00",
+    "last_device_id": "BOOT-MIN009",
+    "fall_detected": false,
+    "impact_g": 0.3,
+    "ppe": {
+      "helmet": true,
+      "vest": true,
+      "boots": true
+    },
+    "environment": {
+      "noise_db": 78.0,
+      "co_ppm": 10.0,
+      "methane_pct": 0.37,
+      "ambient_temp_c": 28.0,
+      "air_quality_index": 74.0
+    }
+  }
+}
