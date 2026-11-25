@@ -26,6 +26,7 @@ class UserRegister(BaseModel):
     password: str = Field(min_length=8)
     area: Optional[str] = None  # useful for supervisor filtering later
     company_name: Optional[str] = None
+    supervisor_id: Optional[str] = None
 
     @field_validator("email")
     @classmethod
@@ -203,13 +204,14 @@ class DashboardRow(BaseModel):
     employee_id: str
     name: str
     surname: str
-    area: Optional[str]
+    area: Optional[str] = None
     role: Role
+    company_name: Optional[str] = None
     status: Status
-    bpm: Optional[float]
-    temperature: Optional[float]
-    activity: Optional[Activity]
-    last_update: Optional[datetime]
+    bpm: Optional[float] = None
+    temperature: Optional[float]  = None
+    activity: Optional[Activity]  = None
+    last_update: Optional[datetime]  = None
 
 
 class MinerSummary(BaseModel):

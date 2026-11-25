@@ -27,11 +27,12 @@ from app.services.inventory_service import (
     refurbish_equipment, return_equipment,
 )
 from app.services.telemetry_service import ingest_telemetry, register_device
-from app.services.user_service import register_user
+from app.services.user_service import register_user, update_employee
 from app.storage import read, update, write
 
 PASSWORD = "Demo12345"
 DOMAIN = "minecorp.co.za"
+COMPANY = "MineCorp (Pty) Ltd"
 
 STAFF = [  # id, name, surname, role, area
     ("ADM001", "Thabo", "Nkosi", "admin", None),
@@ -88,17 +89,20 @@ def ensure_valid_file(path, default):
 
 
 def make_user(emp_id, name, surname, role, area, supervisor_id, n) -> bool:
+    """Create the user with a company name. If they already exist, backfill
+    the company name so older demo data gets it too. Returns True if created."""
     try:
         register_user(UserRegister(
             name=name, surname=surname, role=role,
             email=f"{name}.{surname}@{DOMAIN}".lower().replace(" ", ""),
             phone=f"082000{n:04d}", employee_id=emp_id, password=PASSWORD,
-            area=area, supervisor_id=supervisor_id,
+            area=area, supervisor_id=supervisor_id, company_name=COMPANY,
         ))
         return True
     except HTTPException as e:
         if e.status_code == 409:
-            return False  # already exists
+            update_employee(emp_id, {"company_name": COMPANY})  # backfill older records
+            return False
         raise
 
 
@@ -266,6 +270,7 @@ def seed(reset: bool):
     devices = read(WEARABLES_FILE) or {}
     critical = [e for e, r in readings.items() if r.get("status") == "critical"]
     print(f"  users:      {len(users)} ({sum(u['role'] == 'miner' for u in users)} miners)")
+    print(f"  companies:  {len({u.get('company_name') for u in users if u.get('company_name')})}")
     print(f"  inventory:  {len(equipment)} items, {sum(i.get('status') == 'assigned' for i in equipment.values())} assigned")
     print(f"  devices:    {len(devices)}")
     print(f"  snapshots:  {len(readings)} employees, {len(critical)} critical")

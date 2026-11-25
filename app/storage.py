@@ -14,6 +14,7 @@ machine. See README for the migration path to SQLite/Postgres.
 """
 import json
 import os
+import time
 import threading
 from pathlib import Path
 from typing import Any
@@ -36,11 +37,19 @@ def ensure_file(path: Path, default: Any) -> None:
         _atomic_write(path, default)
 
 
-def _atomic_write(path: Path, data: Any) -> None:
+def _atomic_write(path: Path, data: Any, retries: int = 10, delay: float = 0.2) -> None:
     tmp_path = path.with_suffix(path.suffix + ".tmp")
     with open(tmp_path, "w") as f:
         json.dump(data, f, indent=2, default=str)
-    os.replace(tmp_path, path)
+    # Retry instead of crashing.
+    for attempt in range(retries):
+        try:
+            os.replace(tmp_path, path)
+            return
+        except PermissionError:
+            if attempt == retries - 1:
+                raise
+            time.sleep(delay)
 
 
 def read(path: Path) -> Any:

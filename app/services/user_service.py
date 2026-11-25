@@ -64,7 +64,7 @@ def get_employee(employee_id: str) -> dict:
 def update_employee(employee_id: str, fields: dict) -> dict:
     def _mutate(users: list):
         for u in users:
-            if u["employee_ud"] == employee_id:
+            if u["employee_id"] == employee_id:
                 if "email" in fields and fields["email"]:
                         if any(other["email"].lower() == fields["email"].lower() and other["employee_id"] != employee_id for other in users):
                             raise HTTPException(status.HTTP_409_CONFLICT, "Email already in use by other employee")
