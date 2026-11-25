@@ -6,11 +6,11 @@
     "area": "Shaft-A",
     "alert_type": "fatigue",
     "severity": "warning",
-    "reason": "Fatigue score 91.0 (limit 70)",
-    "bpm": 90.0,
-    "temperature": 36.6,
-    "location": "Shaft-A, Level 1",
-    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "reason": "Fatigue score 92.0 (limit 70)",
+    "bpm": 81.0,
+    "temperature": 36.9,
+    "location": "Shaft-A, Level 3",
+    "timestamp": "2026-11-24T09:31:26.070909+00:00",
     "acknowledged": false
   },
   {
@@ -21,10 +21,10 @@
     "alert_type": "fall_impact",
     "severity": "emergency",
     "reason": "Fall detected",
-    "bpm": 86.0,
+    "bpm": 71.0,
     "temperature": 37.2,
-    "location": "Shaft-A, Level 2",
-    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "location": "Shaft-A, Level 3",
+    "timestamp": "2026-11-24T09:31:26.070909+00:00",
     "acknowledged": false
   },
   {
@@ -35,10 +35,10 @@
     "alert_type": "sos",
     "severity": "emergency",
     "reason": "SOS button triggered",
-    "bpm": 91.0,
-    "temperature": 37.1,
+    "bpm": 69.0,
+    "temperature": 36.6,
     "location": "Shaft-A, Level 2",
-    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "timestamp": "2026-11-24T09:31:26.070909+00:00",
     "acknowledged": false
   },
   {
@@ -49,10 +49,10 @@
     "alert_type": "environment",
     "severity": "high",
     "reason": "co_ppm 58.0 (limit 35); methane_pct 1.4 (limit 1.0); air_quality_index 190.0 (limit 150)",
-    "bpm": 76.0,
-    "temperature": 36.8,
-    "location": "Shaft-B, Level 3",
-    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "bpm": 71.0,
+    "temperature": 37.0,
+    "location": "Shaft-B, Level 1",
+    "timestamp": "2026-11-24T09:31:26.070909+00:00",
     "acknowledged": false
   },
   {
@@ -63,10 +63,10 @@
     "alert_type": "high_risk_zone",
     "severity": "high",
     "reason": "Entered high-risk zone: Blast Zone B",
-    "bpm": 74.0,
-    "temperature": 37.0,
+    "bpm": 70.0,
+    "temperature": 36.7,
     "location": "Blast Zone B",
-    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "timestamp": "2026-11-24T09:31:26.070909+00:00",
     "acknowledged": false
   },
   {
@@ -77,10 +77,10 @@
     "alert_type": "ppe",
     "severity": "warning",
     "reason": "PPE not worn: helmet",
-    "bpm": 80.0,
-    "temperature": 36.4,
+    "bpm": 89.0,
+    "temperature": 36.8,
     "location": "Shaft-B, Level 3",
-    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "timestamp": "2026-11-24T09:31:26.070909+00:00",
     "acknowledged": false
   },
   {
@@ -94,7 +94,7 @@
     "bpm": 142.0,
     "temperature": 38.4,
     "location": "Shaft-B, Level 2",
-    "timestamp": "2026-10-31T07:11:26.758857+00:00",
+    "timestamp": "2026-11-24T09:31:26.070909+00:00",
     "acknowledged": false
   }
 ]

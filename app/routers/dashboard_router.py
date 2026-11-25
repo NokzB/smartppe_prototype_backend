@@ -29,6 +29,7 @@ def _build_dashboard_rows(area_filter: str | None = None) -> list[DashboardRow]:
                 name=u["name"],
                 surname=u["surname"],
                 area=u.get("area"),
+                company_name=u.get("company_name"),
                 role=u["role"],
                 status=r["status"] if r else "stable",
                 bpm=r["bpm"] if r else None,

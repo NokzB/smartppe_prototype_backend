@@ -6,7 +6,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:57.536013+00:00"
+    "timestamp": "2026-11-24T09:31:14.214835+00:00"
   },
   {
     "serial_number": "HLM-MIN001",
@@ -15,7 +15,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:57.595823+00:00"
+    "timestamp": "2026-11-24T09:31:14.258216+00:00"
   },
   {
     "serial_number": "GAS-MIN001",
@@ -24,7 +24,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:57.903740+00:00"
+    "timestamp": "2026-11-24T09:31:14.315907+00:00"
   },
   {
     "serial_number": "VST-MIN001",
@@ -33,7 +33,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:58.277515+00:00"
+    "timestamp": "2026-11-24T09:31:14.699511+00:00"
   },
   {
     "serial_number": "BOOT-MIN001",
@@ -42,7 +42,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:58.502816+00:00"
+    "timestamp": "2026-11-24T09:31:14.811424+00:00"
   },
   {
     "serial_number": "GLV-MIN001",
@@ -51,7 +51,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:58.634828+00:00"
+    "timestamp": "2026-11-24T09:31:14.875101+00:00"
   },
   {
     "serial_number": "GLS-MIN001",
@@ -60,7 +60,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:58.746836+00:00"
+    "timestamp": "2026-11-24T09:31:15.031672+00:00"
   },
   {
     "serial_number": "SW-MIN002",
@@ -69,7 +69,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:58.961802+00:00"
+    "timestamp": "2026-11-24T09:31:15.092362+00:00"
   },
   {
     "serial_number": "HLM-MIN002",
@@ -78,7 +78,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:59.283131+00:00"
+    "timestamp": "2026-11-24T09:31:15.396007+00:00"
   },
   {
     "serial_number": "GAS-MIN002",
@@ -87,7 +87,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:10:59.612620+00:00"
+    "timestamp": "2026-11-24T09:31:15.543482+00:00"
   },
   {
     "serial_number": "VST-MIN002",
@@ -96,7 +96,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:00.397755+00:00"
+    "timestamp": "2026-11-24T09:31:15.896373+00:00"
   },
   {
     "serial_number": "BOOT-MIN002",
@@ -105,7 +105,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:01.294901+00:00"
+    "timestamp": "2026-11-24T09:31:16.328135+00:00"
   },
   {
     "serial_number": "GLV-MIN002",
@@ -114,7 +114,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:01.665256+00:00"
+    "timestamp": "2026-11-24T09:31:16.395776+00:00"
   },
   {
     "serial_number": "GLS-MIN002",
@@ -123,7 +123,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:02.521576+00:00"
+    "timestamp": "2026-11-24T09:31:16.453255+00:00"
   },
   {
     "serial_number": "SW-MIN003",
@@ -132,7 +132,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:02.727909+00:00"
+    "timestamp": "2026-11-24T09:31:16.513908+00:00"
   },
   {
     "serial_number": "HLM-MIN003",
@@ -141,7 +141,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:03.120392+00:00"
+    "timestamp": "2026-11-24T09:31:16.751795+00:00"
   },
   {
     "serial_number": "GAS-MIN003",
@@ -150,7 +150,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:03.777288+00:00"
+    "timestamp": "2026-11-24T09:31:16.840600+00:00"
   },
   {
     "serial_number": "VST-MIN003",
@@ -159,7 +159,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:04.737473+00:00"
+    "timestamp": "2026-11-24T09:31:16.952777+00:00"
   },
   {
     "serial_number": "BOOT-MIN003",
@@ -168,7 +168,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:05.537779+00:00"
+    "timestamp": "2026-11-24T09:31:17.046612+00:00"
   },
   {
     "serial_number": "GLV-MIN003",
@@ -177,7 +177,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:05.866313+00:00"
+    "timestamp": "2026-11-24T09:31:17.148116+00:00"
   },
   {
     "serial_number": "GLS-MIN003",
@@ -186,7 +186,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:05.988842+00:00"
+    "timestamp": "2026-11-24T09:31:17.273956+00:00"
   },
   {
     "serial_number": "SW-MIN004",
@@ -195,7 +195,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:06.544113+00:00"
+    "timestamp": "2026-11-24T09:31:17.416294+00:00"
   },
   {
     "serial_number": "HLM-MIN004",
@@ -204,7 +204,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:06.960103+00:00"
+    "timestamp": "2026-11-24T09:31:17.501036+00:00"
   },
   {
     "serial_number": "GAS-MIN004",
@@ -213,7 +213,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:07.362736+00:00"
+    "timestamp": "2026-11-24T09:31:17.587070+00:00"
   },
   {
     "serial_number": "VST-MIN004",
@@ -222,7 +222,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:07.708747+00:00"
+    "timestamp": "2026-11-24T09:31:18.162300+00:00"
   },
   {
     "serial_number": "BOOT-MIN004",
@@ -231,7 +231,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:07.940457+00:00"
+    "timestamp": "2026-11-24T09:31:18.386907+00:00"
   },
   {
     "serial_number": "GLV-MIN004",
@@ -240,7 +240,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:09.276805+00:00"
+    "timestamp": "2026-11-24T09:31:18.468616+00:00"
   },
   {
     "serial_number": "GLS-MIN004",
@@ -249,7 +249,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:09.503647+00:00"
+    "timestamp": "2026-11-24T09:31:18.553539+00:00"
   },
   {
     "serial_number": "SW-MIN005",
@@ -258,7 +258,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:09.680884+00:00"
+    "timestamp": "2026-11-24T09:31:18.661019+00:00"
   },
   {
     "serial_number": "HLM-MIN005",
@@ -267,7 +267,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:09.870203+00:00"
+    "timestamp": "2026-11-24T09:31:18.744722+00:00"
   },
   {
     "serial_number": "GAS-MIN005",
@@ -276,7 +276,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:10.544203+00:00"
+    "timestamp": "2026-11-24T09:31:18.940482+00:00"
   },
   {
     "serial_number": "VST-MIN005",
@@ -285,7 +285,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:10.911867+00:00"
+    "timestamp": "2026-11-24T09:31:19.023759+00:00"
   },
   {
     "serial_number": "BOOT-MIN005",
@@ -294,7 +294,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:11.265025+00:00"
+    "timestamp": "2026-11-24T09:31:19.162563+00:00"
   },
   {
     "serial_number": "GLV-MIN005",
@@ -303,7 +303,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:11.501477+00:00"
+    "timestamp": "2026-11-24T09:31:19.244304+00:00"
   },
   {
     "serial_number": "GLS-MIN005",
@@ -312,7 +312,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:11.859051+00:00"
+    "timestamp": "2026-11-24T09:31:19.347814+00:00"
   },
   {
     "serial_number": "SW-MIN006",
@@ -321,7 +321,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:12.294257+00:00"
+    "timestamp": "2026-11-24T09:31:19.497325+00:00"
   },
   {
     "serial_number": "HLM-MIN006",
@@ -330,7 +330,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:12.648018+00:00"
+    "timestamp": "2026-11-24T09:31:19.618230+00:00"
   },
   {
     "serial_number": "GAS-MIN006",
@@ -339,7 +339,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:12.937900+00:00"
+    "timestamp": "2026-11-24T09:31:19.777666+00:00"
   },
   {
     "serial_number": "VST-MIN006",
@@ -348,7 +348,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:13.472590+00:00"
+    "timestamp": "2026-11-24T09:31:19.902385+00:00"
   },
   {
     "serial_number": "BOOT-MIN006",
@@ -357,7 +357,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:14.321053+00:00"
+    "timestamp": "2026-11-24T09:31:20.028707+00:00"
   },
   {
     "serial_number": "GLV-MIN006",
@@ -366,7 +366,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:14.663170+00:00"
+    "timestamp": "2026-11-24T09:31:20.133552+00:00"
   },
   {
     "serial_number": "GLS-MIN006",
@@ -375,7 +375,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:14.911907+00:00"
+    "timestamp": "2026-11-24T09:31:20.228919+00:00"
   },
   {
     "serial_number": "SW-MIN007",
@@ -384,7 +384,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:15.281804+00:00"
+    "timestamp": "2026-11-24T09:31:20.355757+00:00"
   },
   {
     "serial_number": "HLM-MIN007",
@@ -393,7 +393,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:15.554450+00:00"
+    "timestamp": "2026-11-24T09:31:21.374375+00:00"
   },
   {
     "serial_number": "GAS-MIN007",
@@ -402,7 +402,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:15.821982+00:00"
+    "timestamp": "2026-11-24T09:31:21.645730+00:00"
   },
   {
     "serial_number": "VST-MIN007",
@@ -411,7 +411,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:16.084856+00:00"
+    "timestamp": "2026-11-24T09:31:21.792384+00:00"
   },
   {
     "serial_number": "BOOT-MIN007",
@@ -420,7 +420,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:17.119463+00:00"
+    "timestamp": "2026-11-24T09:31:22.008288+00:00"
   },
   {
     "serial_number": "GLV-MIN007",
@@ -429,7 +429,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:17.398505+00:00"
+    "timestamp": "2026-11-24T09:31:22.153950+00:00"
   },
   {
     "serial_number": "GLS-MIN007",
@@ -438,7 +438,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:17.687107+00:00"
+    "timestamp": "2026-11-24T09:31:22.265495+00:00"
   },
   {
     "serial_number": "SW-MIN008",
@@ -447,7 +447,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:17.992459+00:00"
+    "timestamp": "2026-11-24T09:31:22.585099+00:00"
   },
   {
     "serial_number": "HLM-MIN008",
@@ -456,7 +456,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:18.377401+00:00"
+    "timestamp": "2026-11-24T09:31:22.691619+00:00"
   },
   {
     "serial_number": "GAS-MIN008",
@@ -465,7 +465,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:18.632506+00:00"
+    "timestamp": "2026-11-24T09:31:22.818638+00:00"
   },
   {
     "serial_number": "VST-MIN008",
@@ -474,7 +474,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:18.941223+00:00"
+    "timestamp": "2026-11-24T09:31:22.965232+00:00"
   },
   {
     "serial_number": "BOOT-MIN008",
@@ -483,7 +483,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:19.623270+00:00"
+    "timestamp": "2026-11-24T09:31:23.084504+00:00"
   },
   {
     "serial_number": "GLV-MIN008",
@@ -492,7 +492,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:20.077727+00:00"
+    "timestamp": "2026-11-24T09:31:23.179900+00:00"
   },
   {
     "serial_number": "GLS-MIN008",
@@ -501,7 +501,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:20.523899+00:00"
+    "timestamp": "2026-11-24T09:31:23.558807+00:00"
   },
   {
     "serial_number": "SW-MIN009",
@@ -510,7 +510,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:20.965960+00:00"
+    "timestamp": "2026-11-24T09:31:23.902763+00:00"
   },
   {
     "serial_number": "HLM-MIN009",
@@ -519,7 +519,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:21.298915+00:00"
+    "timestamp": "2026-11-24T09:31:24.346348+00:00"
   },
   {
     "serial_number": "GAS-MIN009",
@@ -528,7 +528,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:21.664812+00:00"
+    "timestamp": "2026-11-24T09:31:24.663254+00:00"
   },
   {
     "serial_number": "VST-MIN009",
@@ -537,7 +537,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:22.804170+00:00"
+    "timestamp": "2026-11-24T09:31:24.913259+00:00"
   },
   {
     "serial_number": "BOOT-MIN009",
@@ -546,7 +546,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:23.396434+00:00"
+    "timestamp": "2026-11-24T09:31:25.040916+00:00"
   },
   {
     "serial_number": "GLV-MIN009",
@@ -555,7 +555,7 @@
     "action": "assigned",
     "condition_at_action": "new",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:24.459274+00:00"
+    "timestamp": "2026-11-24T09:31:25.228807+00:00"
   },
   {
     "serial_number": "GLS-MIN009",
@@ -564,7 +564,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:25.168160+00:00"
+    "timestamp": "2026-11-24T09:31:25.369617+00:00"
   },
   {
     "serial_number": "HLM-OLD-01",
@@ -573,7 +573,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:25.888146+00:00"
+    "timestamp": "2026-11-24T09:31:25.590279+00:00"
   },
   {
     "serial_number": "HLM-OLD-01",
@@ -582,7 +582,7 @@
     "action": "returned",
     "condition_at_action": "damaged",
     "notes": "Visor cracked after rockfall",
-    "timestamp": "2026-10-31T07:11:26.127850+00:00"
+    "timestamp": "2026-11-24T09:31:25.683084+00:00"
   },
   {
     "serial_number": "BOOT-OLD-01",
@@ -591,7 +591,7 @@
     "action": "assigned",
     "condition_at_action": "used",
     "notes": "Demo issue",
-    "timestamp": "2026-10-31T07:11:26.318500+00:00"
+    "timestamp": "2026-11-24T09:31:25.813563+00:00"
   },
   {
     "serial_number": "BOOT-OLD-01",
@@ -600,7 +600,7 @@
     "action": "returned",
     "condition_at_action": "damaged",
     "notes": "Sole separated",
-    "timestamp": "2026-10-31T07:11:26.442618+00:00"
+    "timestamp": "2026-11-24T09:31:25.890512+00:00"
   },
   {
     "serial_number": "BOOT-OLD-01",
@@ -609,6 +609,6 @@
     "action": "refurbished",
     "condition_at_action": "refurbished",
     "notes": "Resoled by workshop",
-    "timestamp": "2026-10-31T07:11:26.611459+00:00"
+    "timestamp": "2026-11-24T09:31:26.014445+00:00"
   }
 ]
